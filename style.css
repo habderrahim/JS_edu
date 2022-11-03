@@ -3,4 +3,5 @@ body{
     color:brown;
     height: 100vh;
     width: 500px;
+    display: grid;
 }
